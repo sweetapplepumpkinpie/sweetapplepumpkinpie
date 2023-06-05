@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Rust.
+- 🤔 I’m looking for help with a new language something like Go.
+- 💬 Ask me about JavaScript libraries and framworks. My everyday bread and butter is JS, TS, PHP and Python.
+- 📫 How to reach me: sweetapplepumpkinpie@gmail.com
+- 😄 Pronouns: He/his/him
+
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/sweetapplepumpkinpie">
@@ -28,9 +34,4 @@ Here are some ideas to get you started:
 	<a href="https://github.com/sweetapplepumpkinpie">
 		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sweetapplepumpkinpie&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="sweetapplepumpkinpie's Github Stats" />
 	</a>
-</p>
-
-
-<p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=sweetapplepumpkinpie.sweetapplepumpkinpie" alt="visitor count"/>
 </p>
