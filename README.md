@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust.
 - 🤔 I’m looking for help with a new language something like Go.
 - 💬 Ask me about JavaScript libraries and framworks. My everyday bread and butter is JS, TS, PHP and Python.
-- 📫 How to reach me: sweetapplepumpkinpie@gmail.com
+<!-- - 📫 How to reach me: sweetapplepumpkinpie@gmail.com -->
 - 😄 Pronouns: He/his/him
 
 ## My GitHub Stats 📊
