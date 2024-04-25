@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Rust.
-- 🤔 I’m looking for help with a new language something like Go.
+- 🌱 I’m currently looking for new challenges.
+- 🤔 I’m looking for help with a new language something like Go, Rust.
 - 💬 Ask me about JavaScript libraries and framworks. My everyday bread and butter is JS, TS, PHP and Python.
 - 😄 Pronouns: He/his/him
 <!-- - 📫 How to reach me: sweetapplepumpkinpie@gmail.com -->
